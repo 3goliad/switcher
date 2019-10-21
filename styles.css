@@ -1,4 +1,14 @@
-#main {
+.main {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 90%;
     margin: auto;
-    padding-left: 1rem;
+}
+
+.gameboard {
+    width: 100%;
+    background-color: blue;
+    height: 70%;
+    overflow: hidden;
 }
